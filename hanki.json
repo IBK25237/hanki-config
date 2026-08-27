@@ -1,7 +1,7 @@
 {
   "_comment": "서울 한끼 안내판(원격 설정). 관리자 페이지가 고친다. data/api 는 서버 이전 시 여기만 바꾸면 앱이 따라온다.",
   "updated": "2026-08-27",
-  "data": "https://jbox1005.github.io/seoul-hanki-app/proto/",
+  "data": "https://seoul-hanki.pages.dev/proto/",
   "api": "",
   "config": {
     "feedbackEmail": "ibk25237@gmail.com",
