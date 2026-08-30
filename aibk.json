@@ -2,7 +2,7 @@
   "_comment": "AIBK 한끼 안내판(원격 설정). 관리자 페이지가 고친다. data/api 는 서버 이전 시 여기만 바꾸면 앱이 따라온다.",
   "updated": "2026-08-30",
   "data": "https://aibk-hanki.pages.dev/proto/",
-  "api": "",
+  "api": "https://api.yonde.kr",
   "config": {
     "feedbackEmail": "ibk25237@gmail.com",
     "banner": ""
